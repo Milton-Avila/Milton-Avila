@@ -1,4 +1,7 @@
-Meu nome é Milton Ávila, tenho 19 anos, sou um programador front-end | analista de dados e sou interessado pela área de criação de jogos e cyber segurança.
+# Meu nome é Milton Ávila
+* Tenho 19 anos
+* Sou um programador front-end | analista de dados
+* Sou interessado pela área de criação de jogos e cyber segurança.
 
 ```javascript
 const Milton = {
