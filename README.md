@@ -4,17 +4,17 @@
 * Sou interessado pela área de criação de jogos e cyber segurança.
 
 ```javascript
-const Milton = {
+const Me = {
   self: {
     age: 19,
     course: "Software Engeneering",
-    university: "Instituto Federal de Inhumas"
+    university: "Instituto Federal de Inhumas",
   },
 
-  code: [Python, Typescript, HTML, CSS, Java],
-  tools: [React, Node, Numpy, Pandas, Docker],
+  code: [Python, Javascript, HTML, CSS, Java],
+  tools: [React, Typescript, Tailwind, Node, Pandas, Numpy, Docker],
 
   hobbies: ["games", "codes", "music"],
-  essential: Coffe
+  essential: Coffee,
 }
 ```
