@@ -1,12 +1,12 @@
 # Meu nome é Milton Ávila
-* Tenho 19 anos
-* Sou um programador front-end | analista de dados
-* Sou interessado pela área de criação de jogos e cyber segurança.
+* Tenho 20 anos
+* Sou um desenvolvedor de sistemas & programador front-end
+* Sou interessado pela área de inteligência artificial, criação de jogos e cyber segurança.
 
 ```javascript
 const Me = {
   self: {
-    age: 19,
+    age: 20,
     course: "Software Engeneering",
     university: "Instituto Federal de Inhumas",
   },
@@ -14,7 +14,7 @@ const Me = {
   code: [Python, Javascript, HTML, CSS, Java],
   tools: [React, Typescript, Tailwind, Node, Pandas, Numpy, Docker],
 
-  hobbies: ["games", "codes", "music"],
+  hobbies: ["games", "code", "music"],
   essential: Coffee,
 }
 ```
