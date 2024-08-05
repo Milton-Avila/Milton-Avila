@@ -1,7 +1,7 @@
 # Meu nome é Milton Ávila
-* Tenho 20 anos
-* Sou um desenvolvedor de sistemas & programador front-end
-* Sou interessado pela área de inteligência artificial, criação de jogos e cyber segurança.
+Idade: 20 anos <br>
+Profissão: Desenvolvedor de Sistemas & Programador Front-End <br>
+Interesses Profissionais: Inteligência Artificial, Criação de Jogos, Cyber Segurança
 
 ```javascript
 const Me = {
