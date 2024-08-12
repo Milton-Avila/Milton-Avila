@@ -11,8 +11,8 @@ const Me = {
     university: "Instituto Federal de Inhumas",
   },
 
-  code: [Python, Javascript, HTML, CSS],
-  tools: [Pandas, Jupyter, NLTK, Numpy, Typescript, Node, React, Tailwind],
+  code: [Python, Typescript, HTML, CSS],
+  tools: [Pandas, Jupyter, NLTK, Numpy, Node, React, Tailwind],
 
   hobbies: ["games", "code", "music"],
   essential: Coffee,
