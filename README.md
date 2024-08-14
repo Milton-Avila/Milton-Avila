@@ -12,7 +12,7 @@ const Me = {
   },
 
   code: [Python, Typescript, HTML, CSS],
-  tools: [Pandas, Jupyter, NLTK, Numpy, Node, React, Tailwind],
+  tools: [Pandas, Jupyter, Nltk, Numpy, Node, React, Tailwind],
 
   hobbies: ["games", "code", "music"],
   essential: Coffee,
