@@ -26,8 +26,8 @@ const Me = {
   skills: {
     languages: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
     tools: {
-      softwareEngineering: ["Pandas", "Jupyter", "Docker", "NLTK"],
-      frontend: ["Node.js", "React", "Tailwind CSS"],
+      softwareEngineering: ["Sklearn", "Matplotlib", "Pandas", "Jupyter", "NLTK", "Docker"],
+      frontend: ["Node.js", "React", "Next.js", "Tailwind CSS"],
     },
   },
 
