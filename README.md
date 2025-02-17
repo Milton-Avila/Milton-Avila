@@ -19,26 +19,32 @@ const Me = {
       previous: {
         course: "Information Technology",
         degree: "Technologist",
+        institution: "Instituto Federal de Goiás",
       },
     },
   },
 
   skills: {
-    languages: ["Python", "JavaScript", "TypeScript", "HTML", "CSS"],
+    languages: ["Python", "JavaScript", "TypeScript", "Ruby", "HTML & CSS"],
     tools: {
       softwareEngineering: ["Sklearn", "Matplotlib", "Pandas", "Jupyter", "NLTK", "Docker"],
-      frontend: ["Node.js", "React", "Next.js", "Tailwind CSS"],
+      frontend: ["React", "Next.js", "Tailwind CSS"],
+      backend: ["Node.js", "Ruby on Rails"],
     },
   },
 
   hobbies: ["games", "coding", "music"],
   fuel: "Coffee ☕",
+},
 ```
 
 ## 🚀 Projetos em Destaque
+### Web
 - [Spotmy](https://github.com/Milton-Avila/Spotmy)
+
+### Software Engineering
 - [Chess.py](https://github.com/Milton-Avila/Chess.py)
-- [Algebra Linear Solver](https://github.com/Milton-Avila/Linear-Algebra-Solver)
+- [Linear Algebra Solver](https://github.com/Milton-Avila/Linear-Algebra-Solver)
 
 ## 📧 Email Profissional
 <milton.estudantil@gmail.com>
