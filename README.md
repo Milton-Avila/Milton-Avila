@@ -47,4 +47,4 @@ const Me = {
 - [Linear Algebra Solver](https://github.com/Milton-Avila/Linear-Algebra-Solver)
 
 ## 📧 Email Profissional
-<milton.estudantil@gmail.com>
+<miltonavila.dev@gmail.com>
