@@ -1,10 +1,12 @@
 # Milton Ávila
-👨‍💻 Engenheiro de Software & Desenvolvedor Front-End, apaixonado por Inteligência Artificial, Cibersegurança e Criação de Jogos. Sempre em busca de novos desafios, café ☕, e inovação.
+👨‍💻 Engenheiro de Software & Desenvolvedor Front-End, apaixonado por Inteligência Artificial, Cibersegurança e Criação de Jogos. Sempre em busca de desafios, café ☕, e inovação.
 
 ## 🎯 Áreas de Interesse
 - 🧠 Inteligência Artificial
 - 🛡️ Cibersegurança
 - 🎮 Criação de Jogos
+  
+<img width="40%" height="160em" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
 
 ```javascript
 const Me = {
@@ -39,6 +41,7 @@ const Me = {
 ```
 
 ## 🚀 Projetos em Destaque
+
 ### Web
 - [Spotmy](https://github.com/Milton-Avila/Spotmy)
 
