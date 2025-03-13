@@ -27,10 +27,10 @@ const Me = {
   },
 
   skills: {
-    languages: ["Python", "JavaScript", "TypeScript", "Ruby", "HTML & CSS"],
+    languages: ["Python", "TypeScript", "JavaScript", "Ruby", "HTML & CSS"],
     tools: {
-      softwareEngineering: ["Sklearn", "Matplotlib", "Pandas", "Jupyter", "NLTK", "Docker"],
-      frontend: ["React", "Next.js", "Tailwind CSS"],
+      softwareEngineering: ["Pandas", "Matplotlib", "Sklearn", "NLTK", "Jupyter", "Docker"],
+      frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
       backend: ["Node.js", "Ruby on Rails"],
     },
   },
