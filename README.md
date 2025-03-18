@@ -40,7 +40,10 @@ const Me = {
 },
 ```
 
-## 🚀 Projetos em Destaque
+## 💼 Projetos Profissionais
+- [Preprocessing Lib](https://github.com/TJGO-DIACDE/berna_tjgo_diacde_lib)
+
+## 🚀 Projetos Pessoais
 
 ### Web
 - [Spotmy](https://github.com/Milton-Avila/Spotmy)
