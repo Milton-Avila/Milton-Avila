@@ -50,7 +50,7 @@ const Me = {
 
 ### Software Engineering
 - [Chess.py](https://github.com/Milton-Avila/Chess.py)
-- [Dice-Roller](https://github.com/Milton-Avila/Dice-Roller)
+- [RPG-Dice-Roller](https://github.com/Milton-Avila/RPG-Dice-Roller)
 - [Linear Algebra Solver](https://github.com/Milton-Avila/Linear-Algebra-Solver)
 
 ## 📧 Email Profissional
