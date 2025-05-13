@@ -1,43 +1,58 @@
 # Milton Ávila
 👨‍💻 Engenheiro de Software & Desenvolvedor Front-End, apaixonado por Inteligência Artificial, Cibersegurança e Criação de Jogos. Sempre em busca de desafios, café ☕, e inovação.
 
+<img width="40%" height="160em" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
+
 ## 🎯 Áreas de Interesse
 - 🧠 Inteligência Artificial
 - 🛡️ Cibersegurança
 - 🎮 Criação de Jogos
-  
-<img width="40%" height="160em" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
-
 ```javascript
+
 const Me = {
-  self: {
-    age: 20,
-    education: {
-      current: {
-        course: "Software Engineering",
-        degree: "Bachelor",
-        institution: "Instituto Federal de Goiás",
-      },
-      previous: {
-        course: "Information Technology",
-        degree: "Technologist",
-        institution: "Instituto Federal de Goiás",
-      },
+    self: {
+        age: 20,
+        education: [
+            {
+                level: "High School + Technical",
+                field: "Computer Science",
+                institution: "Instituto Federal de Goiás",
+                years: "2019–2021",
+            },
+            {
+                level: "Bachelor (incomplete)",
+                field: "Software Engineering",
+                institution: "Instituto Federal de Goiás",
+                years: "2022–...",
+            },
+            {
+                level: "Technologist",
+                field: "Systems Analysis and Development",
+                institution: "Centro Universitário ETEP",
+                transferredFrom: "Instituto Federal de Goiás",
+                years: "2022–2024",
+            },
+            {
+                level: "Postgraduate",
+                field: "Web Application Development",
+                institution: "Centro Universitário ETEP",
+                years: "2024–2025",
+            },
+        ]
     },
-  },
 
-  skills: {
-    languages: ["Python", "TypeScript", "JavaScript", "Ruby", "HTML & CSS"],
-    tools: {
-      softwareEngineering: ["Pandas", "Matplotlib", "Sklearn", "NLTK", "Jupyter", "Docker"],
-      frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-      backend: ["Node.js", "Ruby on Rails"],
+    skills: {
+        languages: ["Python", "TypeScript", "JavaScript", "Ruby", "HTML & CSS"],
+        tools: {
+            softwareEngineering: ["Pypi", "Docker", "Jupyter", "Pandas", "Matplotlib", "NLTK", "Sklearn"],
+            frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
+            backend: ["Flask", "Node.js", "Ruby on Rails"],
+        },
     },
-  },
 
-  hobbies: ["games", "coding", "music"],
-  fuel: "Coffee ☕",
-},
+    hobbies: ["games", "coding", "music"],
+    fuel: "Coffee ☕",
+};
 ```
 
 ## 💼 Projetos Profissionais
