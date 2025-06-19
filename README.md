@@ -23,14 +23,14 @@ const Me = {
                 level: "Bachelor (incomplete)",
                 field: "Software Engineering",
                 institution: "Instituto Federal de Goiás",
-                years: "2022–...",
+                years: "2022–2024",
             },
             {
                 level: "Technologist",
                 field: "Systems Analysis and Development",
                 institution: "Centro Universitário ETEP",
                 transferredFrom: "Instituto Federal de Goiás",
-                years: "2022–2024",
+                years: "2024–2024",
             },
             {
                 level: "Postgraduate",
@@ -42,11 +42,24 @@ const Me = {
     },
 
     skills: {
-        languages: ["Python", "TypeScript", "JavaScript", "Ruby", "HTML & CSS"],
+        languages: [
+            "Python",
+            "TypeScript",
+            "JavaScript",
+            "Ruby",
+            "HTML & CSS"
+        ],
+
         tools: {
-            softwareEngineering: ["Pypi", "Docker", "Jupyter", "Pandas", "Matplotlib", "NLTK", "Sklearn"],
-            frontend: ["React", "Next.js", "Tailwind CSS", "Bootstrap"],
-            backend: ["Flask", "Node.js", "Ruby on Rails"],
+            softwareEngineering: [
+                "Pypi", "Docker", "Jupyter", "Pandas", "Matplotlib", "NLTK", "Sklearn"
+            ],
+            frontend: [
+                "React", "Next.js", "Tailwind CSS", "Bootstrap"
+            ],
+            backend: [
+                "Flask", "Node.js", "Ruby on Rails"
+            ],
         },
     },
 
