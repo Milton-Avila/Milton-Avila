@@ -26,7 +26,7 @@ const Me = {
                 years: "2022–2024",
             },
             {
-                level: "Technologist",
+                level: "Technologist" (continuation),
                 field: "Systems Analysis and Development",
                 institution: "Centro Universitário ETEP",
                 transferredFrom: "Instituto Federal de Goiás",
