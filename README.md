@@ -1,85 +1,23 @@
-# Milton Ávila
-👨‍💻 Engenheiro de Software & Desenvolvedor Front-End, apaixonado por Inteligência Artificial, Cibersegurança e Criação de Jogos. Sempre em busca de desafios, café ☕, e inovação.
+### Olá! Sou o Milton Ávila 👋
 
-## 🎯 Áreas de Interesse
-- 🧠 Inteligência Artificial
-- 🛡️ Cibersegurança
-- 🎮 Criação de Jogos
+**Engenheiro de Software Full Stack** e **Desenvolvedor de Jogos**, com experiência na criação de soluções completas e interativas. Minhas principais paixões são:
 
-<img width="40%" height="160em" style="float: right;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
+-   🎮 **Criação de Jogos:** Utilizando **Godot** e **GDScript** para dar vida a projetos próprios.
+-   🧠 **Inteligência Artificial:** Possuindo experiência profissional desenvolvendo aplicações para o Tribunal de Justiça de Goiás.
+-   🛡️ **Cibersegurança:** Objetivando estudos de redes e segurança da informação.
+-   ⚙️ **Projetos Pessoais:** Mantendo um home lab para experimentação com servidorese aprimorando a personalização e otimização de sistemas com Arch Linux.
 
-```javascript
-const Me = {
-    self: {
-        age: 20,
-        education: [
-            {
-                level: "High School + Technical",
-                field: "Computer Science",
-                institution: "Instituto Federal de Goiás",
-                years: "2019–2021",
-            },
-            {
-                level: "Bachelor (incomplete)",
-                field: "Software Engineering",
-                institution: "Instituto Federal de Goiás",
-                years: "2022–2024",
-            },
-            {
-                level: "Technologist" (continuation),
-                field: "Systems Analysis and Development",
-                institution: "Centro Universitário ETEP",
-                transferredFrom: "Instituto Federal de Goiás",
-                years: "2024–2024",
-            },
-            {
-                level: "Postgraduate",
-                field: "Web Application Development",
-                institution: "Centro Universitário ETEP",
-                years: "2024–2025",
-            },
-        ]
-    },
+Minha experiência técnica me permite transitar consistentemente por todo o ciclo de desenvolvimento, desde construção de front-end com **React** e **Next.js**, construindo interfaces com **Tailwind** e **Bootstrap**, além de um sólido conhecimento em servidores **Flask** e **Node.js**, incluindo a arquitetura de banco de dados com **Postgres** e conteinerização com **Docker**.
 
-    skills: {
-        languages: [
-            "Python",
-            "TypeScript",
-            "JavaScript",
-            "Ruby",
-            "HTML & CSS"
-        ],
+---
 
-        tools: {
-            softwareEngineering: [
-                "Pypi", "Docker", "Jupyter", "Pandas", "Matplotlib", "NLTK", "Sklearn"
-            ],
-            frontend: [
-                "React", "Next.js", "Tailwind CSS", "Bootstrap"
-            ],
-            backend: [
-                "Flask", "Node.js", "Ruby on Rails"
-            ],
-        },
-    },
+<img width="40%" height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
 
-    hobbies: ["games", "coding", "music"],
-    fuel: "Coffee ☕",
-};
-```
+### Projetos em Destaque
 
-## 💼 Projetos Profissionais
-- [Preprocessing Lib](https://github.com/TJGO-DIACDE/berna_tjgo_diacde_lib)
+-   **[Spotmy](https://github.com/Milton-Avila/Spotmy):** Um projeto web pessoal que demonstra minhas habilidades em desenvolvimento Full Stack.
+-   **[Preprocessing Lib](https://github.com/TJGO-DIACDE/berna_tjgo_diacde_lib):** Um desenvolvimento profissional que me aprofundou em engenharia de software e tratamento de texto.
 
-## 🚀 Projetos Pessoais
+### Fale comigo
 
-### Web
-- [Spotmy](https://github.com/Milton-Avila/Spotmy)
-
-### Software Engineering
-- [Chess.py](https://github.com/Milton-Avila/Chess.py)
-- [RPG-Dice-Roller](https://github.com/Milton-Avila/RPG-Dice-Roller)
-- [Linear Algebra Solver](https://github.com/Milton-Avila/Linear-Algebra-Solver)
-
-## 📧 Email Profissional
-<miltonavila.dev@gmail.com>
+-   **Email:** miltonavila.dev@gmail.com 
