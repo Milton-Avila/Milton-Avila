@@ -3,8 +3,8 @@
 **Engenheiro de Software Full Stack**, com experiência na criação de soluções completas e personalizadas. Sobre mim:
 
 -   ⚖️ **Experiência Profissional:** Desenvolvendo sistemas com aplicação de IA para o Tribunal de Justiça de Goiás.
--   👾 **Criação de Jogos:** Utilizando **Godot** e **GDScript** para dar vida a projetos próprios.
 -   🧠 **Inteligência Artificial:** Criando um software próprio para gerenciamento customizável de um agente.
+-   👾 **Criação de Jogos:** Utilizando **Godot** e **GDScript** para dar vida a projetos próprios.
 -   🧪 **HomeLab:** Mantendo um homelab para experimentação com servidores e otimização com Arch Linux.
 -   🛡️ **Cibersegurança:** Objetivando estudos de redes e segurança da informação.
 
