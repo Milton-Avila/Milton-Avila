@@ -12,8 +12,6 @@ Minha experiência técnica me permite desenvolver consistentemente por todo o c
 
 ---
 
-<img width="40%" height="160em" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Avila&layout=compact&langs_count=7&theme=dark"/>
-
 ### Projetos em Destaque
 
 -   **[Spotmy](https://github.com/Milton-Avila/Spotmy):** Primeiro projeto web pessoal que treinou minhas habilidades em desenvolvimento Full Stack.
