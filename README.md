@@ -1,24 +1,21 @@
-### Olá! Sou o Milton Ávila 👋
+## Hi, I'm Milton Ávila 👋
 
-**Engenheiro de Software Full Stack**, com experiência na criação de soluções completas e personalizadas. Sobre mim:
+### **Full Stack Software Engineer | MVP Specialist**
+Bridging low-level performance with modern, scalable web interfaces.
 
--   ⚖️ **Experiência Profissional:** Desenvolvendo sistemas com aplicação de IA para o **Tribunal de Justiça de Goiás**.
--   🧠 **Inteligência Artificial:** Desenvolvedor do [Archi](https://github.com/Milton-Avila/Archi), um sistema para gestão de agentes de IA com arquitetura proprietária e modular.
--   🧪 **HomeLab:** Mantendo um **Homelab** para experimentação com servidores e otimização com **Arch Linux** + **Aplicações Rust**.
--   👾 **Criação de Jogos:** Utilizando **Godot** e **Rust** para dar vida a projetos próprios.
--   🛡️ **Cibersegurança:** Objetivando estudos de **Redes**, **Segurança da Informação** e **Otimização de Sistemas**.
+-   💼 Focus: Delivering end-to-end MVPs (Backend, Frontend and DevOps).
+-   ⚙️ Infrastructure: Homelab enthusiast, Docker expert, and server automation.
+-   🦀 System Languages: Building high-performance solutions with Rust.
+-   ⚖️ Background: High-stakes systems for the Court of Justice (TJGO).
+-   👾 Game Dev: Using Godot and Rust to create proprietary games.
 
-Minha experiência técnica me permite desenvolver consistentemente por todo o ciclo do projeto, desde construção de front-end dinâmico com **React** e **Next.js**, ou mesmo usando templates **Flask**, construindo interfaces com **Tailwind** e **Bootstrap**, além de um sólido conhecimento em servidores **Flask** e **Node.js**, incluindo arquitetura de banco de dados com **Postgres** e **SQLAlchemy** tudo conteinerizado com **Docker** e pronto para produção com um servidor **Gunicorn** robusto e performático.
+My technical expertise allows me to drive projects through their entire lifecycle. I build dynamic front-ends using **React**, crafting performant interfaces with **Tailwind CSS**. On the backend, I architect robust systems using **Rust (Axum)** and **Python (Flask)**, leveraging **PostgreSQL** with **SQLAlchemy** for scalable data modeling. Everything I build is containerized with **Docker** and production-ready, ensuring high availability and performance.
+Featured Projects
 
----
+-   **[Archi](https://github.com/Milton-Avila/Archi):** An advanced AI agent and chat system featuring dynamic tool loading and manual context management. Built natively in Python without external SDKs to ensure maximum control and minimal overhead.
+-   **[Spotmy](https://github.com/Milton-Avila/Spotmy):** A full-stack web application that served as the foundation for my expertise in Next.js and TypeScript, focusing on seamless user experience.
+-   **[Preprocessing Lib](https://github.com/TJGO-DIACDE/berna_tjgo_diacde_lib):** A specialized Python library for string cleaning and preprocessing, optimized for AI-driven text manipulation pipelines.
+-   **Ongoing Work:** Currently developing high-performance systems in Rust (Private repos). These focus on low-level optimization, custom engine architecture and memory safety.
 
-### Projetos em Destaque
-
--   **[Archi](https://github.com/Milton-Avila/Archi):** Sistema avançado de chat e agentes de IA com gerenciamento de contexto e carregamento dinâmico de ferramentas, construído do zero em Python.
--   **[Spotmy](https://github.com/Milton-Avila/Spotmy):** Primeiro projeto web pessoal que treinou minhas habilidades em desenvolvimento Full Stack.
--   **[Preprocessing Lib](https://github.com/TJGO-DIACDE/berna_tjgo_diacde_lib):** Pequena lib para preprocessamento e limpeza de strings usada em projetos de manipulação de texto por IA.
--   **Outros projetos:** Os maiores e mais recentes projetos estão privados até a finalização do seu desenvolvimento.
-
-### Fale comigo
-
--   **Email:** miltonavila.dev@gmail.com 
+### Let's Connect
+- Email: miltonavila.dev@gmail.com
