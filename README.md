@@ -7,7 +7,7 @@ Bridging low-level performance with modern, scalable web interfaces.
 -   ⚙️ Infrastructure: Homelab enthusiast, Docker expert, and server automation.
 -   🦀 System Languages: Building high-performance solutions with Rust.
 -   ⚖️ Background: High-stakes systems for the Court of Justice (TJGO).
--   👾 Game Dev: Using Godot and Rust to create proprietary games.
+-   👾 Game Dev: Using Godot and Rust to create a proprietary game.
 
 My technical expertise allows me to drive projects through their entire lifecycle. I build dynamic front-ends using **React**, crafting performant interfaces with **Tailwind CSS**. On the backend, I architect robust systems using **Rust (Axum)** and **Python (Flask)**, leveraging **PostgreSQL** with **SQLAlchemy** for scalable data modeling. Everything I build is containerized with **Docker** and production-ready, ensuring high availability and performance.
 Featured Projects
