@@ -13,5 +13,4 @@ I build end-to-end web systems with a focus on performance, memory safety, and m
 - [**Archi**](https://github.com/Milton-Avila/Archi): AI agent system featuring dynamic tool loading and custom context management.
 
 ### Let's Connect
-- [**Business / Projects**](https://your-landing-page-url.com)
 - [**Email**](mailto:miltonavila.dev@gmail.com)
